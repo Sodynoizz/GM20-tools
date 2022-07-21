@@ -48,12 +48,12 @@ If you need help regarding GM20 book Bot, please join the [support server]
 | `/ช่วยเหลือ ขั้นตอนการจอง` | Shows reverving step | ✅ |
 | `/ช่วยเหลือ การรายงานปัญหา` | Shows how to report fill out wrong information | ✅ |
 | `/เช็คสถิติของเซิร์ฟเวอร์` | Check server statistics | ✅ |
-| `/ยกเลิกการจองหนังสือ` | Place number that want to cancle | ❌ |
+| `/ประวัติการสั่งจอง` | Order history | ❌ (_Administator Required_) |
+| `/ยกเลิกการจองหนังสือ` | Place number that want to cancle | ❌ (_Administator Required_) |
 | `/รายการสินค้า` | Show product list | ✅ |
 | `/รายงานบัค` | Report bot problem | ✅ |
 | `/ลบข้อความ` | Clear massages in that channel | ✅ |
+| `/ลบประวัติการสั่งจอง` | Clear history | ❌ (_Administator Required_) |
 | `/อวาตาร์` | Show profile of member | ✅ |
-| `/ประวัติการสั่งจอง` | Order history | ❌
-| `/ลบประวัติการสั่งจอง` | Clear history | ✅ |
 
   [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
