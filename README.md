@@ -34,23 +34,26 @@
 
 # About
 
-Discord bot that shows your infomation GM20 Book
+Discord bot that shows your information GM20 Book
 If you need help regarding GM20 book Bot, please join the [support server]
 
 ## Usage
 
-| Command                       | Action                                                                                                     |
-| :---------------------------- | :--------------------------------------------------------------------------------------------------------- |
-| `/faq` | Frequently asked question |
-| `/giftedmath` | Show GM memberlist |
-| `/ความหน่วงของบอท` | Check bot ping |
-| `/จองหนังสือ`  | Reserve book |
-| `/ช่วยเหลือ ขั้นตอนการจอง` | Reserving process - help |
-| `/ช่วยเหลือ การรายงานปัญหา` | Diagnosis - help |
-| `/เช็คสถิติของเซิร์ฟเวอร์` | Show server statistic |
-| `/รายการสินค้า` | Show product list |
-| `/รายงานบัค` | Report problem |
-| `/ลบข้อความ` | Clear massages in specific channel |
-| `/อวาตาร์` | Show member profile |
+| Command                       | Description                   | Permission                    |
+| :---------------------------- | :---------------------------- | :---------------------------- |
+| `/faq` | Frequently asked question | ✅ |
+| `/giftedmath` | Shows list member of gifted math | ✅ |
+| `/ความหน่วงของบอท` | Check bot latency | ✅ |
+| `/จองหนังสือ`  | Reserve book | ✅ |
+| `/ช่วยเหลือ ขั้นตอนการจอง` | Shows reverving step | ✅ |
+| `/ช่วยเหลือ การรายงานปัญหา` | Shows how to report fill out wrong information | ✅ |
+| `/เช็คสถิติของเซิร์ฟเวอร์` | Check server statistics | ✅ |
+| `/ยกเลิกการจองหนังสือ` | Place number that want to cancle | ❌ |
+| `/รายการสินค้า` | Show product list | ✅ |
+| `/รายงานบัค` | Report bot problem | ✅ |
+| `/ลบข้อความ` | Clear massages in that channel | ✅ |
+| `/อวาตาร์` | Show profile of member | ✅ |
+| `/ประวัติการสั่งจอง` | Order history | ❌
+| `/ลบประวัติการสั่งจอง` | Clear history | ✅ |
 
   [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
