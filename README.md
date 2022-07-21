@@ -50,7 +50,7 @@ If you need help regarding GM20 book Bot, please join the [support server]
 | `/เช็คสถิติของเซิร์ฟเวอร์` | Show server statistic |
 | `/รายการสินค้า` | Show product list |
 | `/รายงานบัค` | Report problem |
-| `/ลบข้อความ` | Clear massages in the channel |
+| `/ลบข้อความ` | Clear massages in specific channel |
 | `/อวาตาร์` | Show member profile |
 
   [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
