@@ -100,6 +100,6 @@ This project is licensed under the GNUv2 License - see more at the [LICENSE](htt
 
   [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
   
-##Disclaimer
+## Disclaimer
 
 This project is created and developed by 20th Triamudom suksa Gifted math students for discord server and adjusting miscellaneous data.
