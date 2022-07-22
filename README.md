@@ -6,9 +6,6 @@
   <a href = "https://github.com/Sodynoizz/GM20-tools">
     <img src = "https://img.shields.io/github/license/Sodynoizz/GM20-tools" alt = "license">
   </a>
-  <a href = "https://github.com/Sodynoizz/GM20-tools">
-    <img src = "https://img.shields.io/github/v/release/Sodynoizz/GM20-tools" alt = "release">
-  </a>
   <a href = "https://github.com/Sodynoizz/GM20-tools/fork">
     <img src = "https://img.shields.io/github/forks/Sodynoizz/GM20-tools" alt = "forks">
   </a>
@@ -19,13 +16,13 @@
 </p>
 
 <p align = "center">
-  <a href = "#about">About</a> •
-  <a href = "#screenshots">Screenshots</a> •
-  <a href = "#installation">Installation</a> •
-  <a href = "#usage">Usage</a> •
-  <a href = "#disclaimer">Disclaimer</a> •
-  <a href = "#special-thanks">Special Thanks</a> •
-  <a href = "#support-me">Support</a>
+  <a href = "#about">About</a> |
+  <a href = "#screenshots">Screenshots</a> |
+  <a href = "#installation">Installation</a> |
+  <a href = "#usage">Usage</a> |
+  <a href = "#disclaimer">Disclaimer</a> |
+  <a href = "#special-thanks">Special Thanks</a> |
+  <a href = "#support">Support</a>
 </p>
 
 <!-- Inspired by Red Discord Bot -->
@@ -60,6 +57,7 @@ If you need help regarding GM20 book Bot, please join the [support server]
 
 ```bash
 pip install git+https://github.com/Pycord-Development/pycord
+git clone --filter=blob:none --sparse git@github.com:Sodynoizz/GM20-tools
 ```
 
 * GM20xTU85 Discord Bot Token
@@ -104,5 +102,12 @@ This project is licensed under the GNUv2 License - see more at the [LICENSE](htt
 
 This project is created and developed by 20th Triamudom suksa Gifted math students for discord server and adjusting miscellaneous data.
 
+## Special Thanks
+
+[![Rickroll](https://cdn.discordapp.com/attachments/999700414142361690/1000040053520732320/IMG_9368.jpg)](https://bitly.com/98K8eH)
+
+## Support
+
+[![Rickroll](https://cdn.discordapp.com/attachments/999700414142361690/1000040053520732320/IMG_9368.jpg)](https://bitly.com/98K8eH)
 
   [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
