@@ -19,13 +19,12 @@
 </p>
 
 <p align = "center">
-  <a href = "#about">About</a>•
-  <a href = "#screenshots">Screenshots</a>•
-  <a href = "#installation">Installation</a>•
-  <a href = "#usage">Usage</a>•
-  <a href = "#translations">Translations</a>•
-  <a href = "#disclaimer">Disclaimer</a>•
-  <a href = "#special-thanks">Special Thanks</a>•
+  <a href = "#about">About</a> •
+  <a href = "#screenshots">Screenshots</a> •
+  <a href = "#installation">Installation</a> •
+  <a href = "#usage">Usage</a> •
+  <a href = "#disclaimer">Disclaimer</a> •
+  <a href = "#special-thanks">Special Thanks</a> •
   <a href = "#support-me">Support</a>
 </p>
 
@@ -34,7 +33,7 @@
 
 # About
 
-Discord bot that shows your information GM20 Book
+The Discord bot that shows your information The gifted math students at Triamudom Suksa School created the GM20 Book for students preparing to enter Triamudom Suksa School
 If you need help regarding GM20 book Bot, please join the [support server]
 
 ## Screenshots
