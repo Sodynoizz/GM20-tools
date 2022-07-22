@@ -19,13 +19,12 @@
 </p>
 
 <p align = "center">
-  <a href = "#about">About</a>•
-  <a href = "#screenshots">Screenshots</a>•
-  <a href = "#installation">Installation</a>•
-  <a href = "#usage">Usage</a>•
-  <a href = "#translations">Translations</a>•
-  <a href = "#disclaimer">Disclaimer</a>•
-  <a href = "#special-thanks">Special Thanks</a>•
+  <a href = "#about">About</a> •
+  <a href = "#screenshots">Screenshots</a> •
+  <a href = "#installation">Installation</a> •
+  <a href = "#usage">Usage</a> •
+  <a href = "#disclaimer">Disclaimer</a> •
+  <a href = "#special-thanks">Special Thanks</a> •
   <a href = "#support-me">Support</a>
 </p>
 
@@ -34,7 +33,8 @@
 
 # About
 
-Discord bot that shows your information GM20 Book
+The Discord bot that shows your information The gifted math students at Triamudom Suksa School created the GM20 Book for students preparing to enter Triamudom Suksa School
+
 If you need help regarding GM20 book Bot, please join the [support server]
 
 ## Screenshots
@@ -62,15 +62,17 @@ If you need help regarding GM20 book Bot, please join the [support server]
 pip install git+https://github.com/Pycord-Development/pycord
 ```
 
-* GM20xTU85 discord bot token
+* GM20xTU85 Discord Bot Token
 
 ```bash
-TOKEN = 'INPUT DISCORD TOKEN HERE'
+CLIENT_ID = 'INPUT CLIENT_ID HERE'
+CLIENT_SECRET = 'INPUT CLIENT_SECRET HERE'
+BOT_TOKEN = 'INPUT DISCORD TOKEN HERE'
 ```
 
 * Run the bot
 ```bash
-python bot.py
+python bot.py 
 ```
 
 * the Slash Command (`/`) will automaticalled be assigned for global commands (global commands can also take up to an hour to update for Android users). Refer to [docs](https://discord.com/developers/docs/interactions/application-commands).
@@ -98,8 +100,9 @@ python bot.py
 
 This project is licensed under the GNUv2 License - see more at the [LICENSE](https://github.com/Sodynoizz/GM20-tools/blob/add-license-1/LICENSE) file for details.
 
-  [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
-  
 ## Disclaimer
 
 This project is created and developed by 20th Triamudom suksa Gifted math students for discord server and adjusting miscellaneous data.
+
+
+  [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
