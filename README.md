@@ -62,15 +62,17 @@ If you need help regarding GM20 book Bot, please join the [support server]
 pip install git+https://github.com/Pycord-Development/pycord
 ```
 
-* GM20xTU85 discord bot token
+* GM20xTU85 Discord Bot Token
 
 ```bash
-TOKEN = 'INPUT DISCORD TOKEN HERE'
+CLIENT_ID = 'INPUT CLIENT_ID HERE'
+CLIENT_SECRET = 'INPUT CLIENT_SECRET HERE'
+BOT_TOKEN = 'INPUT DISCORD TOKEN HERE'
 ```
 
 * Run the bot
 ```bash
-python bot.py
+python bot.py 
 ```
 
 * the Slash Command (`/`) will automaticalled be assigned for global commands (global commands can also take up to an hour to update for Android users). Refer to [docs](https://discord.com/developers/docs/interactions/application-commands).
