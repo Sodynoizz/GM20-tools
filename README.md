@@ -100,7 +100,7 @@ python bot.py
 
 This project is licensed under the GNUv2 License - see more at the [LICENSE](https://github.com/Sodynoizz/GM20-tools/blob/add-license-1/LICENSE) file for details.
 
-  [support server]: <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
+  [support server] : <https://cdn.discordapp.com/attachments/975979987142320171/996020871003123823/E0687751-6DE0-4D28-80AB-A982EE4A4ED2.jpg>
   
 ## Disclaimer
 
