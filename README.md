@@ -39,7 +39,7 @@ If you need help regarding GM20 book Bot, please join the [support server]
 
 ## Usage
 
-| Command                       | Description                   | Permission                    |
+| Command                       | Description                   | Default Permission            |
 | :---------------------------- | :---------------------------- | :---------------------------- |
 | `/faq` | Frequently asked question | ✅ |
 | `/giftedmath` | Shows list member of gifted math | ✅ |
