@@ -104,7 +104,7 @@ This project is created and developed by 20th Triamudom suksa Gifted math studen
 
 ## Special Thanks
 
-[![Rickroll](https://cdn.discordapp.com/attachments/999700414142361690/1000040053520732320/IMG_9368.jpg)](https://bitly.com/98K8eH)
+[![OnDemand](https://cdn.discordapp.com/attachments/975979987142320171/1008019090172018728/cropped-on-demand-logo-1.png)](https://www.ondemand.in.th/)
 
 ## Support
 
