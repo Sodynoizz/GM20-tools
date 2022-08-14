@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 import js2py
+import re
+from simpleeval import simple_eval
 from typing import Union
 
 class DeleteMsg(discord.ui.View):
@@ -17,7 +19,7 @@ class DeleteMsg(discord.ui.View):
         return self.author == interaction.user
     
     async def on_timeout(self) -> None:
-        await self.message.edit(content= "⏰ Timed Out...", embed=None, view=None)
+        await self.message.edit(content= "⏰ Timed Out...", embed=None, view=None , delete_after = 5)
         
 class Calculator(commands.Cog):
     def __init___(self, bot: commands.AutoShardedBot):
@@ -49,8 +51,12 @@ class Calculator(commands.Cog):
     @discord.commands.slash_command(name = "calculator" , description = "เครื่องคิดเลข")
     async def calc(self, ctx: discord.ApplicationContext, expression: str):
         eval_result, calculator = js2py.run_file("utility/calculator.js")
-        result = calculator.calculate(expression)
-        embed = self.make_embed(expression= expression, res= result, author = ctx.interaction.user)
+        try:
+            eval_result = simple_eval(expression)
+        except:
+            eval_result = calculator.on_calculation_error()
+
+        embed = self.make_embed(expression= expression, res= eval_result, author = ctx.interaction.user)
         view = DeleteMsg(ctx.interaction.user)
         await ctx.respond(embed= embed , view = view)
         view.message = await ctx.interaction.original_message()
