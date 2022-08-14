@@ -1,6 +1,6 @@
 var calculate = function(str) 
 {
-    let str = str.replace(/[^-()\d/*+.]/g, '') // regex for assure that eval will be safe
+    let str = str.replace(/^\s*([-+]?)(\d+)(?:\s*([-+*\/])\s*((?:\s[-+])?\d+)\s*)+$/g, '') // regex for assure that eval will be safe
     try
     {
         var res = (typeof eval(str) == 'number') ? eval(str) : 'Error :(' 
